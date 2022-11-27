@@ -1,3 +1,4 @@
+package app.src.main.java.bankaccount_covid19_zaliczenie_wykładu;
 
 public class BankAccount
 {
